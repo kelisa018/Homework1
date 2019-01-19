@@ -1,0 +1,10 @@
+{
+   "city": "Москва",
+   "weather": -2,
+   "snow": true,
+   "sea": null,
+   "habitats": {
+     "number": 10000000,
+     "expats": true,
+      }
+   },
